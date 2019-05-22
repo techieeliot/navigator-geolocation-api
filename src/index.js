@@ -1,3 +1,4 @@
+//
 const x = document.getElementById("demo");
 const getLocation = () => {
   if (navigator.geolocation) {
